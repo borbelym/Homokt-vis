@@ -68,3 +68,9 @@ li {
 ul {
     list-style-image: url('bogyo.png');
 }
+
+#bokor {
+    float: left;
+    margin: 0 30px 10px 0;
+    width: 140px;
+}
