@@ -64,3 +64,7 @@ li {
 #bevezeto {
     width: 600px;
 }
+
+ul {
+    list-style-image: url('bogyo.png');
+}
